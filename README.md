@@ -1,2 +1,2 @@
 # semaphores
-C++, semaphores, shared memory, multy process, fork()
+C++, semaphores, shared memory, multiprocess, fork()
